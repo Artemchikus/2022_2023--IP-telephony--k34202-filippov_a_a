@@ -25,7 +25,6 @@ Date of finished: ...
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/6.png)  
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/7.png)
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/8.png)
-   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/9.png)
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/10.png)
 5. Настроены DHCP сервера на маршрутизаторах для передачи голоса и данных между ними.  
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/11.png)
