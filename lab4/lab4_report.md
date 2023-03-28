@@ -32,9 +32,9 @@ Date of finished: ...
 6. Настроена динамическая маршрутизация RIP между маршрутизаторами для передачи информации друг другу.  
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/13.png)
 7. Настроены услуги телефонии Cisco CallManager Express на маршрутизаторе 2811.  
-   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/14.png
-   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/15.png
-   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/16.png
+   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/14.png)
+   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/15.png)
+   ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/16.png)
 8. Проверены вызовы между удаленными IP-телефонами и пинги между удаленными хостами.  
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/17.png)
    ![Image text](https://github.com/Artemchikus/2022_2023--IP-telephony--k34202-filippov_a_a/raw/main/lab4/images/18.png)
